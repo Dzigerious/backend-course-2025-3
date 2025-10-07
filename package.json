@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Dzigerious/backend-course-2025-3#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
     "commander": "^14.0.1"
   }
 }
