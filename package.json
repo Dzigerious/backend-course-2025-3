@@ -4,6 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    "start": "node main.js -i house-price.json -d",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
